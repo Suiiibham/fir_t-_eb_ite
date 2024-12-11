@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+    }
+    button {
+        background-color: rgba(155,155,000,1);
+    }
+    #logo {
+        color: orange;
+        font-size: 25px;
+    }
+    a {
+        margin-right: 200px;
+    }
+    #header {
+        height: 45px;
+        background-color: black;
+    }
+    .contentbo_1 {
+        height: 100px;
+        width: 100px;
+        background-color: rgba(200, 200, 000, 0.5);
+        border: 3px solid black;
+        display: inline-block;
+    }
+    .contentbo_3 {
+        height: 100px;
+        width: 100px;
+        background-color: rgba(200, 000, 200, 0.5);
+        border: 3px solid green;
+        display: inline-block;        
+    }
+    .contentbo_4 {
+        height: 100px;
+        width: 100px;
+        background-color: rgba(000, 200, 200, 0.5);
+        border: 3px solid red;
+        display: inline-block;        
+    }
+    footer {
+        text-align: center;
+        background-color: black;
+        color: white;
+    }
+    #content {
+        height: 700px;
+    }
+    body {
+        background-color: #808F85;
+    }
+    #Jump {
+        text-align: center;
+        color: chocolate;
+    }
+/* div {
+    background-color: purple;
+    display: inline;
+}
+here thi block element _ill ork a_ inline element */
